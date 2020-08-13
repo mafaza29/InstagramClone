@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="notification">notif</string>
+    <string name="profile">profil</string>
+    <string name="kirim">kirim</string>
+    <string name="instagram">Instagram</string>
+    <string name="menu">menu</string>
+    <string name="txt_postan">242</string>
+    <string name="txt_polower">234RB</string>
+    <string name="txt_polowing">100</string>
+    <string name="text_posts">Posts</string>
+    <string name="btn_profile">Edit Profile</string>
+    <string name="text_followers">Followers</string>
+    <string name="text_following">Following</string>
+</resources>
